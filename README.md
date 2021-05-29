@@ -1,23 +1,4 @@
-# Actions OpenWrt Snapshot
-[1]: https://img.shields.io/badge/license-GPLV2-brightgreen.svg
-[2]: /LICENSE
-[3]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
-[4]: https://github.com/garypang13/Actions-OpenWrt/pulls
-[5]: https://img.shields.io/badge/Issues-welcome-brightgreen.svg
-[6]: https://github.com/garypang13/Actions-OpenWrt/issues/new
-[7]: https://img.shields.io/github/v/release/hyird/Action-Openwrt
-[8]: https://github.com/garypang13/Actions-OpenWrt/releases
-[10]: https://img.shields.io/badge/Contact-telegram-blue
-[11]: https://t.me/opwrts
-[12]: https://github.com/garypang13/Actions-OpenWrt/workflows/Openwrt-AutoBuild/badge.svg
-[13]: https://github.com/garypang13/Actions-OpenWrt/actions
 
-[![license][1]][2]
-[![GitHub Stars](https://img.shields.io/github/stars/garypang13/Actions-OpenWrt.svg?style=flat-square&label=Stars)](https://github.com/garypang13/Actions-OpenWrt-Nginx/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/garypang13/Actions-OpenWrt.svg?style=flat-square&label=Forks)](https://github.com/garypang13/Actions-OpenWrt-Nginx/fork)
-[![PRs Welcome][3]][4]
-[![Issue Welcome][5]][6]
-[![AutoBuild][12]][13]
 
 <a href="https://t.me/opwrts" target="_blank">Telegram</a>
 ### 特色:
